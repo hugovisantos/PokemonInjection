@@ -1,0 +1,14 @@
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.deps.json
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.runtimeconfig.json
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.runtimeconfig.dev.json
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.dll
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.pdb
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.csprojAssemblyReference.cache
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.RazorAssemblyInfo.cache
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.RazorAssemblyInfo.cs
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.AssemblyInfoInputs.cache
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.AssemblyInfo.cs
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.RazorTargetAssemblyInfo.cache
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.dll
+C:\Users\HugoVianaSantos\source\repos\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.pdb
